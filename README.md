@@ -10,7 +10,7 @@
 <h5>- Programming Languages: </h5>
 <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="skills" />
 <h5>- Tools: </h5>
-<img src="https://skillicons.dev/icons?i=vscode,github,git" alt="skills" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,firebase" alt="skills" />
 
 
 
