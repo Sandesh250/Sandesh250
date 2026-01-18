@@ -17,9 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sandesh-p-2bb809322/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sandeshsp" /></a>
-<a href="https://leetcode.com/u/Sandeshsp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/SandeshSP" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="" height="50" width="50"/></a>
-<a href="https://www.geeksforgeeks.org/user/sandeshspatrot/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="" height="50" width="50"/></a>
 </p>
 
 
